@@ -12,7 +12,7 @@ CREATE TABLE cliente (
   id INT AUTO_INCREMENT NOT NULL,
   nome VARCHAR(150) NOT NULL,
   endereco_fk INT NOT NULL,
-  cpf VARCHAR(12) NOT NULL,
+  cpf VARCHAR(12) NOT NULL UNIQUE,
   email VARCHAR(100) NOT NULL,
   telefone VARCHAR(12) NOT NULL,
   usuario VARCHAR(45) NOT NULL,
@@ -40,8 +40,7 @@ CREATE TABLE endereco (
   valor FLOAT NOT NULL,
   data_locacao TIMESTAMP NOT NULL,
   data_devolucao TIMESTAMP NOT NULL,
-  debito TINYINT,
-  credito TINYINT,
+  forma_pagamento VARCHAR(45) NOT NULL,
   PRIMARY KEY (id));
   
   -- Criação da tabela locacao_filme
