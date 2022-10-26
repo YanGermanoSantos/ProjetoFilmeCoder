@@ -1,0 +1,61 @@
+id,rua,bairro,numero,complemento,cep,cidade
+null,Rua Jose Bonifacio lado impar,Se,15,casa 2,1003001,Sao Paulo
+null,Viaduto do Cha,Centro,20,,1002020,Sao Paulo
+null,Viaduto do Cha,Centro,250,CASA 5,1002900,Sao Paulo
+null,Rua Direita,Se,130,,1002901,Sao Paulo
+null,Rua Direita,Se,2500,APT2,1002902,Sao Paulo
+null,Rua Direita,Centro,80,apt 1,1002903,Sao Paulo
+null,Rua dos Geranios,Araras,12,,25725120,Petropolis
+null,Rodovia BR 040 do km 58001 ao km 62999,Itaipava,23,casa 8,25740325,Petropolis
+null,Rua Cruz de Malta,Afonso Pena,584,,75513490,Itumbiara
+null,Avenida Rio Branco,Afonso Pena,235,,75513489,Itumbiara
+null,Estrada de Portugal,Km 18,35,,6524010,Osasco
+null,Rua São Vicente de Paula,Centro,656,Casa 1,6524011,Guarulhos
+null,Viela Petrolina,Fazendinha,56,,6524012,Arujá
+null,Rua Elias Assaf,Morrinho,45,,6524013,Tatuí
+null,Travessa Destino,Pamonha,58,,6524014,Piracicaba
+null,Via Anthero Villares,Pipa,6545,,6524015,Mairiporã
+null,Rua Maria José de Jesus Bonilha,Longe,54,,6524016,Atibaia
+null,Rua Sérgio Pompeo,Altura,265,Apto 2,6524017,Peruibe
+null,Rua Geraldo José de Almeida,Destino,6,,6524018,Praia Grande
+null,Rua Tibiriçá,Graminha,65,,6524019,Altinópolis
+null,Rua Doutor Alberto Schweitzer,Capanado,2,Casa Fundos,6524020,Campinas
+null,Rua Doutor Fortunato Antiório,De Carro,56,,6524021,Jundiaí
+null,Rua Fonte,Fazendinha,2,,6524022,Embu
+null,Rua Carlos Rossetti,Sítio 11,1,,6524023,Itapecerica
+null,Rua Cleide Imaculada Bueno,Centro,84,,6524024,São Paulo
+null,Rua Luiz Gama,Vila Yara,75,,6524025,Osasco
+null,Rua Edmundo Amaral,Tenda,8,,6524026,Guarulhos
+null,Rua Tenente Antônio Correa Santa Rita,Km 18,62,Lote 2,6524027,Arujá
+null,Viela da Esperança,Centro,96,,6524028,Tatuí
+null,Rua Josias Baptista,Fazendinha,4,,6524029,Piracicaba
+null,Rua Ana Zozi Toni,Morrinho,757,,6524030,Mairiporã
+null,Rua Manoel Rodrigues,Pamonha,48,,6524031,Atibaia
+null,Rua Aní­sio Berniz,Pipa,8,,6524032,Peruibe
+null,Rua São Pedro,Longe,10,,6524033,Praia Grande
+null,Rua Pedro Furlan,Altura,204,,6524034,Altinópolis
+null,Rua Maria C. Mattias Santos,Destino,543,,6524035,Campinas
+null,Praça Vinte e Um de Dezembro,Graminha,222,Quadra 1 Lote 4,6524036,Jundiaí
+null,Rua Doutor José Norberto da Fonseca,Capanado,2,,6524037,Embu
+null,Rua José Parreira,Km 18,56,,6524038,Itapecerica
+null,Rua Campina Grande,Centro,2,,6524039,São Paulo
+null,Rua Ema,Fazendinha,1,Casa 3,6524040,Osasco
+null,Rua Danilo de Oliveira,Morrinho,84,,6524041,Guarulhos
+null,Rua Atílio Fabri,Pamonha,75,,6524042,Arujá
+null,Rua Raimundo José Nunes,Pipa,8,,6524043,Tatuí
+null,Viela Conquista,Longe,62,,6524044,Piracicaba
+null,Rua Maria Joana Rosa,Altura,96,,6524045,Mairiporã
+null,Rua Osvaldo Soares de Castro,Destino,4,,6524046,Atibaia
+null,Rua do Campo,Graminha,757,Casa 2,6524047,Peruibe
+null,Rua José Jordão Morales,Capanado,2,,6524048,Praia Grande
+null,Rua Antônio Donini,Canto,56,,6524049,Altinópolis
+null,Rua Bom Conselho,Ponta,2,,6524050,Campinas
+null,Rua Garcia Flores,Alto do Morro,1,,6524051,Jundiaí
+null,Viela Elizete Cardoso,Centro,84,,6524052,Embu
+null,Viela Vereda Tropical,Lama,75,,6524053,Itapecerica
+null,Praça Pedro de Andrade,Subida,8,,6524054,São Paulo
+null,Viela Maria Barcera Gamera,Tatuapé,62,,6524055,São Paulo
+null,Rua Augusto Chacon Teruel,Penha,96,,6524056,São Paulo
+null,Viela Hebreus,Centro,4,,6524057,São Paulo
+null,Rua Hailton de Oliveira,Vila Madalena,757,,6524058,São Paulo
+null,Rua José Henrique de Lima,Sáude,48,,6524059,São Paulo
