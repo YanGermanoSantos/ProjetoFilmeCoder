@@ -24,5 +24,6 @@ INSERT INTO genero (nome_ator) VALUES ('Teste6');
 INSERT INTO genero (nome_ator) VALUES ('Teste7');
 savepoint lote_2;
 
--- DELETE from genero where genero in ('Aventura', 'Teste1', 'Teste2', 'Teste3')
+RELEASE SAVEPOINT lote_1; 
 
+ROLLBACK; 
